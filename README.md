@@ -4,7 +4,7 @@ ThoughtICR
 </h1>
 
 <p align="center">
-📚 <a href="https://aclanthology.org/2026.acl-long.135/" target="_blank">[ACL 2026]</a> &nbsp;&nbsp;&nbsp;📃 target="_blank">[arXiv]</a> &nbsp;&nbsp;&nbsp;💻 <a href="https://github.com/jinyangwu/ThoughtICR" target="_blank">[Code]</a>
+📚 <a href="https://aclanthology.org/2026.acl-long.135/" target="_blank">[ACL 2026]</a> &nbsp;&nbsp;&nbsp;💻 <a href="https://github.com/jinyangwu/ThoughtICR" target="_blank">[Code]</a>
 </p>
 
 This repository is the official implementation of **[Beyond Examples: Towards Automated Thought-level In-Context Reasoning for Large Language Models](https://aclanthology.org/2026.acl-long.135/)**, accepted to **ACL 2026 Long Papers**.
