@@ -58,8 +58,8 @@ We recommend using conda for environment management and executing the code on an
 1. Create a Python environment with python 3.10:
 
 ```
-conda create -n hiaricl python==3.10
-conda activate hiaricl
+conda create -n thoughticr python==3.10
+conda activate thoughticr
 ```
 
 2. Install requirements
